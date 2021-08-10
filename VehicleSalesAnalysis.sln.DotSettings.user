@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f9de082_002Deb88_002D4ce1_002D897c_002Dbfe70ae1112f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ServicesHelperTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Helpers.ServicesHelperTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Services.VehicleSalesAnalysisServiceTests.MostCommonVehicleColourSold_NoSales&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Services.VehicleSalesAnalysisServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Factory.VehicleSalesAnalysisServiceFactoryTests.ServiceIsSingleton&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Factory.VehicleSalesAnalysisServiceFactoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6d375064_002D937b_002D4bf8_002Dab5a_002D6c055a5bbab4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetVehicles_ReturnsList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Services.VehicleSalesAnalysisServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600::net5.0::VehicleSalesAnalysis.Tests.Helpers.ServicesHelperTests.GetNumberOfVehiclesSold&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

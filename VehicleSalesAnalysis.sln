@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSalesAnalysis", "VehicleSalesAnalysis\VehicleSalesAnalysis.csproj", "{F3F80F12-C664-4B0C-A776-9ADBCAFC5D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSalesAnalysis.Tests", "VehicleSalesAnalysis.Tests\VehicleSalesAnalysis.Tests.csproj", "{A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F80F12-C664-4B0C-A776-9ADBCAFC5D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F80F12-C664-4B0C-A776-9ADBCAFC5D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F80F12-C664-4B0C-A776-9ADBCAFC5D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F80F12-C664-4B0C-A776-9ADBCAFC5D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0319BEB-9B9C-4E36-8AD3-E05C2B4A7600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

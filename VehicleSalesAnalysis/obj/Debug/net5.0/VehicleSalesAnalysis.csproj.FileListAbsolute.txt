@@ -1,0 +1,17 @@
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\VehicleSalesAnalysis.exe
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\VehicleSalesAnalysis.deps.json
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\VehicleSalesAnalysis.runtimeconfig.json
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\VehicleSalesAnalysis.runtimeconfig.dev.json
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\VehicleSalesAnalysis.dll
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\ref\VehicleSalesAnalysis.dll
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\VehicleSalesAnalysis.pdb
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.csproj.AssemblyReference.cache
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.AssemblyInfoInputs.cache
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.AssemblyInfo.cs
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.csproj.CoreCompileInputs.cache
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.dll
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\ref\VehicleSalesAnalysis.dll
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.pdb
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\obj\Debug\net5.0\VehicleSalesAnalysis.genruntimeconfig.cache
+D:\Gene\Interviews\Euromonitor\Assessment\VehicleSalesAnalysis\VehicleSalesAnalysis\bin\Debug\net5.0\Data\sales.json
