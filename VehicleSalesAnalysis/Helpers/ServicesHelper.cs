@@ -13,7 +13,7 @@ namespace VehicleSalesAnalysis.Helpers
         }
 
         // Doesn't accept years in the future.
-        // End year must be bigger than start year.
+        // End year must be bigger or equal to start year.
         // Year can't be negative
         // Year must be of type int?
         public static bool AreValidYears(int startYear, int endYear)
